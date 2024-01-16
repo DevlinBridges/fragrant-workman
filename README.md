@@ -14,6 +14,6 @@ If you want to get to know me a little better, here are some fun facts about me:
 
 I'm excited to learn more about using Github and customizing my README MySpace style.
 
-To get a hang of how READMEs are set up, what should be included in them, and how markdown works, I used these three *immensely* helpful sources: [1]([http://a.com](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes), [2](https://commonmark.org/help/), [3](https://www.reddit.com/r/github/comments/jzh96b/how_to_build_creative_readme_for_your_github/).
+To get a hang of how READMEs are set up, what should be included in them, and how markdown works, I used these three *immensely* helpful sources: [1](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes), [2](https://commonmark.org/help/), [3](https://www.reddit.com/r/github/comments/jzh96b/how_to_build_creative_readme_for_your_github/).
 
 Thanks for reading!
